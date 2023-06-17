@@ -111,7 +111,7 @@ function Payment() {
             <br />
             <br />
             <center>
-                <div className='card' style={{ backgroundColor: "#bfcbf6", boxShadow: "0 0 10px rgba(0, 0, 0, 0.5)", width: "60%" }}>
+                <div className='card' style={{ backgroundColor: "", boxShadow: "0 0 10px rgba(0, 0, 0, 0.5)", width: "60%" }}>
 
                     <h3 style={{ marginTop: '40px' }}>Pay Your Class Fee</h3>
 
